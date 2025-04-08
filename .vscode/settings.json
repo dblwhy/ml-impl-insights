@@ -1,0 +1,4 @@
+{
+    // This is needed for Pylance to read the .venv
+    "python.defaultInterpreterPath": "/Users/yuki-yoshimura/workspace/calligraphont/image_processor/.venv/bin/python"
+}
